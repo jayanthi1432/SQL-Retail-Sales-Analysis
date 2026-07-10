@@ -10,7 +10,7 @@ The main objective is to understand:
 
 ## 🗄️ Database Schema
 The fOllowing ER Diagram illustrates the database structure and relationships used in this project.
-![ER Diagram](Images/ERDiagram.png)
+![ER Diagram](IMAGES/ERDiagram.png)
 
 ## 🛠️ Tools Used
 - MySQL
@@ -46,7 +46,7 @@ SQL-Retail-Sales-Analysis
 │
 ├── README.md
 ├── Images
-│   └── image.png
+│   └── ERDiagram.png
 ├── 01_database.sql
 ├── 02_create_tables.sql
 ├── 03_insert_customers.sql
