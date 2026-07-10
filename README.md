@@ -8,57 +8,45 @@ The main objective is to understand:
 - Revenue trends
 - Sales patterns
 
-
 ## 🗄️ Database Schema
-This project contains four main tables:
-- CUSTOMERS
-- PRODUCTS
-- ORDERS
-- PAYMENTS
-
+The fOllowing ER Diagram illustrates the database structure and relationships used in this project.
+![ER Diagram](Images/image.png)
 
 ## 🛠️ Tools Used
 - MySQL
 - SQL
 - GitHub
 
-
 ## 📚 SQL Concepts Covered
+✔ Database Creation
+✔ Table Creation
+✔ Data Insertion
+✔ SELECT Queries
+✔ WHERE Conditions
+✔ Aggregate Functions
+✔ GROUP BY & HAVING
+✔ ORDER BY
+✔ Joins
+✔ Subqueries
+✔ CTE
+✔ Window Functions
+✔ CASE Statements
 
-✔ Database Creation  
-✔ Table Creation  
-✔ Data Insertion  
-✔ SELECT Queries  
-✔ WHERE Conditions  
-✔ Aggregate Functions  
-✔ GROUP BY & HAVING  
-✔ ORDER BY  
-✔ INNER JOIN  
-✔ LEFT JOIN  
-✔ RIGHT JOIN  
-✔ Subqueries  
-✔ Common Table Expressions (CTE)  
-✔ Window Functions  
-✔ CASE Statements  
-
-
-## 📊 Business Analysis Performed
-
-The project answers real-world business questions:
-
-- Who are the top customers by revenue?
-- Which products generate maximum sales?
-- What are the monthly sales trends?
-- What is the average order value?
-- Which product categories perform better?
-- Which customers place more orders?
-
+## 📊 Business Analysis
+- Top Customers by Revenue
+- Best Selling Products
+- Monthly Sales Trends
+- Customer Order Frequency
+- Category-wise Revenue
+- Average Order Value
 
 ## 📂 Project Structure
+text
 SQL-Retail-Sales-Analysis
 │
 ├── README.md
-│
+├── Images
+│   └── image.png
 ├── 01_database.sql
 ├── 02_create_tables.sql
 ├── 03_insert_customers.sql
@@ -73,17 +61,9 @@ SQL-Retail-Sales-Analysis
 ├── 12_case_statements.sql
 └── 13_advanced_business_queries.sql
 
-
-## 💡 Skills Demonstrated
-- SQL Data Analysis
-- Relational Database Management
-- Writing Business Queries
-- Data Exploration
-- Analytical Problem Solving
-
-
 ## 🚀 Future Enhancements
-- Add Power BI dashboard
-- Add Python Exploratory Data Analysis
-- Add automated reporting
-- Add more business scenarios
+
+- Power BI Dashboard
+- Python EDA
+- More Business Queries
+- Interactive Visualizations
