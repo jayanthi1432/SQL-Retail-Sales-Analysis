@@ -10,7 +10,7 @@ The main objective is to understand:
 
 ## 🗄️ Database Schema
 The fOllowing ER Diagram illustrates the database structure and relationships used in this project.
-![ER Diagram](Images/image.png)
+![ER Diagram](Images/ERDiagram.png)
 
 ## 🛠️ Tools Used
 - MySQL
