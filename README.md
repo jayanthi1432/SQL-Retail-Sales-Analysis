@@ -17,7 +17,7 @@ The main objectives of this project are to:
 
 The following ER Diagram illustrates the database structure and relationships used in this project.
 
-![ER Diagram](Images/ERDiagram.png)
+![ER Diagram](IMAGES/ERDiagram.png)
 
 ---
 
